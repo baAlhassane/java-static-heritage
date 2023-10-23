@@ -7,4 +7,8 @@ public class CompteurInstance {
     public void  printCompteur(){
         System.out.println("compteur  = "+compteur);}
 
+
+
+
+
 }
