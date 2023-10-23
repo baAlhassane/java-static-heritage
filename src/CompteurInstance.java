@@ -4,4 +4,7 @@ public class CompteurInstance {
     CompteurInstance(){
         compteur++;
     }
+    public void  printCompteur(){
+        System.out.println("compteur  = "+compteur);}
+
 }
